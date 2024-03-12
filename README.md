@@ -8,4 +8,4 @@
   <li>Tailwind CSS</li>
   <li>Firebase</li>
 </ul>
-<p align="center">Check out my <a href="https://moeidejaz.netlify.app" target="_blank">portfolio</a> website to get to know about me and my tech stack.!</p>
+<p align="center">Check out my <a href="https://moeidejaz.netlify.app" target="_blank">portfolio</a> to get to know about me and my tech stack.!</p>
